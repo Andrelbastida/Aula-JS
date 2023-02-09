@@ -1,0 +1,6 @@
+body{
+    background-color: black; /* comentário no CSS */
+    color: white;
+    display: flex;
+    justify-content: center;
+}
